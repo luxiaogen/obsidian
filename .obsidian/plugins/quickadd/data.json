@@ -1,0 +1,92 @@
+{
+  "choices": [
+    {
+      "id": "0233511a-a634-428e-910c-57ad8d911ba1",
+      "name": "刷新主页命令",
+      "type": "Macro",
+      "command": true,
+      "macroId": "ce1d0146-bf7e-447c-a13e-cc0db1b1329f"
+    },
+    {
+      "id": "a1f12079-db8f-40eb-9283-12fd7e17d452",
+      "name": "重载主页命令",
+      "type": "Macro",
+      "command": true,
+      "macroId": "58bfade5-6e2e-471b-b090-51c260fa92d3"
+    }
+  ],
+  "macros": [
+    {
+      "name": "刷新主页",
+      "id": "ce1d0146-bf7e-447c-a13e-cc0db1b1329f",
+      "commands": [
+        {
+          "name": "fetchhomepage",
+          "type": "UserScript",
+          "id": "36e3e1ed-92b2-4edd-87a3-845f6e4cedf1",
+          "path": "我的模版/脚本/fetchhomepage.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "7a1a5c2f-f3fe-480b-a4ab-d390b6c058af",
+          "time": 200
+        },
+        {
+          "name": "Workspaces Plus: Load: Home",
+          "type": "Obsidian",
+          "id": "a752d421-fc10-44a0-864a-c27b4dc80c5b",
+          "commandId": "workspaces-plus:Home"
+        }
+      ],
+      "runOnStartup": true
+    },
+    {
+      "name": "重载主页",
+      "id": "58bfade5-6e2e-471b-b090-51c260fa92d3",
+      "commands": [
+        {
+          "name": "refreshhomepage",
+          "type": "UserScript",
+          "id": "5643016f-3555-4d48-ae76-ef1f1f17835f",
+          "path": "我的模版/脚本/refreshhomepage.js",
+          "settings": {}
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "caacaf40-63b4-4d1a-a943-94ba38125ca1",
+          "time": 500
+        },
+        {
+          "name": "QuickAdd: 刷新主页命令",
+          "type": "Obsidian",
+          "id": "dac90d51-323a-4ca5-8568-0fc8bd11a4f2",
+          "commandId": "quickadd:choice:0233511a-a634-428e-910c-57ad8d911ba1"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "1.2.1",
+  "disableOnlineFeatures": true,
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}

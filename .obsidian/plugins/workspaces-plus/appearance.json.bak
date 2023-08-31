@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "translucency": true,
+  "cssTheme": "BRAT-AnubisNekhet----AnuPpuccin",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "网格背景",
+    "AnuExtendTheme",
+    "yaozhuwa@CSS"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "theme:switch",
+      "icon": "aperture",
+      "name": "更换主题",
+      "mode": "any"
+    },
+    {
+      "id": "file-explorer:move-file",
+      "icon": "lucide-folder-tree",
+      "name": "将文件移动到其他文件夹",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "workspace:export-pdf",
+      "icon": "arrow-big-up",
+      "name": "导出为 PDF",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "左右分屏",
+      "mode": "any"
+    },
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "删除当前文件",
+      "mode": "any"
+    },
+    {
+      "id": "editing-toolbar:hide-show-menu",
+      "icon": "cMenuToolbar",
+      "name": "Editing Toolbar: Hide/show ",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

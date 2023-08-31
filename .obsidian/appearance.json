@@ -1,0 +1,12 @@
+{
+  "accentColor": "",
+  "translucency": true,
+  "cssTheme": "Obsidian Nord",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "yaozhuwa@CSS",
+    "AnuExtendTheme",
+    "表格优化"
+  ],
+  "baseFontSize": 16
+}

@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "d3135145152abadf",
+    "type": "split",
+    "children": [
+      {
+        "id": "4716c435552bd3f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c119d70f4a066a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-02-05.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d03ebda687b85e7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2023-02-17.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "576b0dafd22e9009",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "49b3aa6716455703",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "676090994f8dd476",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0e0b98762b956fac",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "72053072e701f2fa",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "cd0511c530b652f4",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4c25ffcf0a9a1b22",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b00a1a86b8f995ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "日记/2023-02-17.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d6339e3cb7b4f291",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "日记/2023-02-17.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d5c87bd9f6960973",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "日记/2023-02-17.md"
+          }
+        }
+      },
+      {
+        "id": "dc5b7c2fe451a7b0",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "d03ebda687b85e7d",
+  "lastOpenFiles": [
+    "日记/2023-02-05.md",
+    "日记/2023-02-17.md",
+    "日记/2023-02-16.md",
+    "专升本/英语/英语作文模版.md",
+    "专升本/英语/英语翻译考点.md",
+    "日记/2023-02-08.md",
+    "日记/2023-02-07.md",
+    "日记/2023-02-06.md",
+    "日记/2023-02-04.md",
+    "Untitled.md"
+  ]
+}

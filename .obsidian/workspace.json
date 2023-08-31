@@ -1,0 +1,248 @@
+{
+  "main": {
+    "id": "2c0eca40b015c75c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c296ca68a32d08d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fe8c2a3598071b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4ae6963a85ac6d3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f98fa2d0c4087ed4",
+        "type": "tabs",
+        "dimension": 60.16949152542373,
+        "children": [
+          {
+            "id": "15742e64881524e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cdca3f8ffbbcef9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12261c302e126c16",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "507a2850d7eb0776",
+        "type": "tabs",
+        "dimension": 39.83050847457627,
+        "children": [
+          {
+            "id": "a5d5ca29c4340c8c",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f63b557965c28fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "733c84c37046eb82",
+        "type": "tabs",
+        "dimension": 38.771186440677965,
+        "children": [
+          {
+            "id": "3e597ca6b42b903f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "64133aab95e1e3ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b28a247bd9f0054",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "eba6659b58b8f248",
+        "type": "tabs",
+        "dimension": 61.228813559322035,
+        "children": [
+          {
+            "id": "4f42b38174b7c1ac",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4c4c8357efa836f3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md"
+              }
+            }
+          },
+          {
+            "id": "eac674d71bc1907f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 289
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian42-brat:BRAT": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "15742e64881524e4",
+  "lastOpenFiles": [
+    "日记/2023-08-31.md",
+    "未命名.md",
+    "Home.md",
+    "c++",
+    "coding/基础/11",
+    "coding/基础/test.md",
+    "coding/基础/C++/C++核心编程.md",
+    "m48rl8.md",
+    "coding/基础/计算机网路/一 概述.md",
+    "coding/基础/C++",
+    "coding/navigator.md",
+    "39wgzx.md",
+    "未命名.canvas",
+    "temp/Obsidian新手教程.md",
+    "coding/基础/计算机网路",
+    "coding/基础",
+    "coding/未命名.md",
+    "hfhwb6.md",
+    "日记/2023-02-04.md",
+    "日记/2023-07-16.md",
+    "日记/2023-04-10.md",
+    "日记/2023-03-18.md",
+    "日记/2023-04-13.md",
+    "专升本/英语/英语常见词汇.canvas",
+    "日记/2023-04-09.md",
+    "日记/2023-04-08.md",
+    "日记/2023-04-07.md",
+    "日记/2023-02-11.md",
+    "日记/2023-04-05.md",
+    "日记/2023-04-04.md",
+    "日记/2023-04-03.md",
+    "日记/2023-04-02.md",
+    "日记/2023-04-01.md",
+    "专升本/计算机基础/选项卡.canvas",
+    "专升本/计算机基础/images/Pasted image 20230308235134.png",
+    "专升本/计算机基础/images/Pasted image 20230308234227.png",
+    "专升本/计算机基础/images/Pasted image 20230308234046.png",
+    "专升本/计算机基础/images/Pasted image 20230308233948.png",
+    "专升本/计算机基础/images/Pasted image 20230308233717.png",
+    "专升本/计算机基础/images/Pasted image 20230308233713.png",
+    "专升本/计算机基础/images/Pasted image 20230308233712.png",
+    "专升本/计算机基础/images/Pasted image 20230308233640.png",
+    "专升本/计算机基础/images/Pasted image 20230308233251.png",
+    "专升本/计算机基础/images/Pasted image 20230308233233.png",
+    "专升本/计算机基础/images",
+    "专升本/英语/英语思维卡片.canvas",
+    "专升本/高数/高数思维卡片.canvas"
+  ]
+}

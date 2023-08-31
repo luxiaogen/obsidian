@@ -1,0 +1,24 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {},
+      "opened": true,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {},
+        "opened": false,
+        "itemType": {},
+        "tagIndex": -1
+      }
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {},
+    "opened": false,
+    "enableList_": {}
+  },
+  "UseTagDetail": false,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {},
+  "MetaFileTagDetails": {}
+}
