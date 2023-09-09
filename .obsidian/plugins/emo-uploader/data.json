@@ -5,7 +5,7 @@
       "owner": "luxiaogen",
       "repo": "images",
       "branch": "master",
-      "token": "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",
+      "token": "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",
       "message": "from emo-uploader·Github"
     },
     "path": "2023/",
@@ -44,6 +44,12 @@
   "catbox_parms": {
     "required": {
       "userhash": ""
+    }
+  },
+  "chevereto_parms": {
+    "required": {
+      "domain": "",
+      "token": ""
     }
   }
 }

@@ -8,5 +8,6 @@
     "AnuExtendTheme",
     "表格优化"
   ],
-  "baseFontSize": 16
+  "baseFontSize": 17,
+  "monospaceFontFamily": "Cascadia Code"
 }

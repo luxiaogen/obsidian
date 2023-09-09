@@ -5,20 +5,16 @@
       "path": "Home.md"
     },
     {
-      "basename": "2023-08-31",
-      "path": "日记/2023-08-31.md"
-    },
-    {
       "basename": "C++核心编程",
       "path": "coding/基础/C++/C++核心编程.md"
     },
     {
-      "basename": "一 概述",
-      "path": "coding/基础/计算机网路/一 概述.md"
-    },
-    {
       "basename": "navigator",
       "path": "coding/navigator.md"
+    },
+    {
+      "basename": "一 概述",
+      "path": "coding/基础/计算机网路/一 概述.md"
     },
     {
       "basename": "Obsidian新手教程",
