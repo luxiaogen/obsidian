@@ -6,7 +6,8 @@
   "enabledCssSnippets": [
     "yaozhuwa@CSS",
     "AnuExtendTheme",
-    "表格优化"
+    "表格优化",
+    "网格背景"
   ],
   "baseFontSize": 17,
   "monospaceFontFamily": "Cascadia Code"

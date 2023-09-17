@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "coding/基础/C++/C++核心编程.md",
+                "file": "coding/基础/C++/C++提高.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f63b557965c28fbc",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "coding/基础/C++/C++核心编程.md",
+                "file": "coding/基础/C++/C++提高.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "coding/基础/C++/C++核心编程.md"
+                "file": "coding/基础/C++/C++提高.md"
               }
             }
           },
@@ -160,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "coding/基础/C++/C++核心编程.md",
+                "file": "coding/基础/C++/C++提高.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,13 +198,16 @@
   },
   "active": "4fe8c2a3598071b5",
   "lastOpenFiles": [
-    "coding/navigator.md",
+    "coding/基础/C++/C++提高.md",
     "Home.md",
+    "coding/navigator.md",
+    "coding/基础/计算机组成原理.md",
     "coding/基础/C++/C++核心编程.md",
+    "().md",
+    "coding/基础/C++/未命名",
     "日记/2023-09-09.md",
     "日记/2023-09-05.md",
     "coding/基础/计算机网路/一 概述.md",
-    "().md",
     "日记/2023-08-31.md",
     "未命名.md",
     "c++",
@@ -228,8 +232,6 @@
     "日记/2023-04-08.md",
     "日记/2023-04-07.md",
     "日记/2023-02-11.md",
-    "日记/2023-04-05.md",
-    "日记/2023-04-04.md",
     "专升本/计算机基础/选项卡.canvas",
     "专升本/计算机基础/images/Pasted image 20230308235134.png",
     "专升本/计算机基础/images/Pasted image 20230308234227.png",

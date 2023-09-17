@@ -1543,6 +1543,7 @@ void test01()
 	Person p1(18);
 	Person p2(20);
 	Person p3(30);
+	// p1.operator=(p2); --- p1 = p2
 	p3 = p2 = p1; //赋值操作
 	cout << "p1的年龄为：" << *p1.m_Age << endl;
 	cout << "p2的年龄为：" << *p2.m_Age << endl;
